@@ -42,7 +42,7 @@ steps:
   displayName: 'Use Python $(python.version)'
 
 
-- script: python "name.py"
+- script: python "1.py"
 
 
 
